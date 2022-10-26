@@ -12,3 +12,12 @@ body{
     background-position: center;
     background-size: cover;
 }
+h1, h2{
+    color:#321b08
+}
+a{
+    text-decoration: none;
+}
+p, li{
+    color: #4b2d08;
+}
